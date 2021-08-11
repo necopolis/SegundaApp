@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         inicializarVista();
     }
+    //Probando el primer commit
     private void inicializarVista() {
         siguiente1 = findViewById(R.id.BTSiguiente1);
         entrada = findViewById(R.id.ETEntrada);
